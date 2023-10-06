@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27780244144",
+    "project_id": "payment-caeec",
+    "storage_bucket": "payment-caeec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27780244144:android:9152738f74a08672b81175",
+        "android_client_info": {
+          "package_name": "com.example.payfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJmVAYZ2ns6EckgdGpNVzZr12lfiKkKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
